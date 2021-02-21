@@ -8,9 +8,10 @@
 - 👯 I want to contribute to machine learning projects as well as any other projects.
 
 
-[<img align="center"   width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img  align="center"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-[<img  align="center"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+**My contacts:**  
+[<code><img height="50" src="https://www.vectorlogo.zone/logos/telegram/telegram-ar21.svg"></code>][telegram]
+[<code><img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"></code>][linkedin]
+[<code><img height="50" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"></code>][website]
 <br />
 
 **Languages:**  
@@ -25,13 +26,12 @@
 <code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/amido/azure-vector-icons/master/icons/SQL%20Database%20(Generic).svg"></code>
 
+<code><img height="50" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/vim/vim-ar21.svg"></code>
