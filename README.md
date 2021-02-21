@@ -8,12 +8,6 @@
 - 👯 I want to contribute to machine learning projects as well as any other projects.
 
 
-**My contacts:**  
-[<code><img height="50" src="https://www.vectorlogo.zone/logos/telegram/telegram-ar21.svg"></code>][telegram]
-[<code><img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"></code>][linkedin]
-[<code><img height="50" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"></code>][website]
-<br />
-
 **Languages:**  
 <code><img height="50" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/cpp/cpp.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
@@ -59,6 +53,12 @@
 
 ### Show some ❤️ by starring some of my repositories!
 
+<hr>
+
+**My contacts:**  
+[<code><img height="50" src="https://www.vectorlogo.zone/logos/telegram/telegram-ar21.svg"></code>][telegram]
+[<code><img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"></code>][linkedin]
+[<code><img height="50" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"></code>][website]
 
 
 <!--
