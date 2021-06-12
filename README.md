@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=d351d3r&label=Views&color=blue&style=plastic" alt="d351d3r" /> </p>
 
-- 🌱 I’m currently learning C/C++, GNU/Linux, Golang, Python, Tensorflow, AI/ML
+- 🌱 I’m currently learning C++, GNU/Linux, Python, AI/ML
 - 🏫 Now I am studying at the Far Eastern Transport University in Russia.
 - 👯 I want to contribute to machine learning projects as well as any other projects.
 
@@ -11,8 +11,6 @@
 **Languages:**  
 <code><img height="50" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/cpp/cpp.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
 
 **Tools:** 
 
@@ -22,25 +20,14 @@
 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/vim/vim-ar21.svg"></code>
-<code><img height="50" src="https://github.com/valohai/ml-logos/blob/master/keras.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
-<code><img height="50" src="https://github.com/valohai/ml-logos/blob/master/pandas.svg"></code>
-<code><img height="50" src="https://github.com/valohai/ml-logos/blob/master/scipy.svg"></code>
-<code><img height="50" src="https://github.com/valohai/ml-logos/blob/master/matplotlib.svg"></code>
+
 
 
 <h2 align="center">:zap: Github Stats </h2>
 <div algin="center">
-<img alt="d351d3r's Github Stats" align="left" src="https://github-readme-stats.codestackr.vercel.app/api?username=d351d3r&show_icons=true&theme=radical&hide_border=true" />
-       
+<img alt="d351d3r's Github Stats" align="left" src="https://github-readme-stats.vercel.app/api?username=d351d3r&show_icons=true&theme=radical&hide_border=true" />
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d351d3r)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
@@ -58,7 +45,7 @@
 **My contacts:**  
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/telegram/telegram-ar21.svg"></code>][telegram]
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"></code>][linkedin]
-[<code><img height="50" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"></code>][website]
+<!-- [<code><img height="50" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"></code>][website] -->
 
 
 <!--
