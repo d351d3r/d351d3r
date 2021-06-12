@@ -9,30 +9,40 @@
 
 
 **Languages:**  
-<code><img height="50" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/cpp/cpp.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
+![Python](https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
 
 **Tools:** 
 
-<code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/amido/azure-vector-icons/master/icons/SQL%20Database%20(Generic).svg"></code>
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![PSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<code><img height="50" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/vim/vim-ar21.svg"></code>
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)
+![NeoVim](https://img.shields.io/badge/NEOVIM-%2311AB00.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 
 
 
 <h2 align="center">:zap: Github Stats </h2>
 <div algin="center">
-<img alt="d351d3r's Github Stats" align="left" src="https://github-readme-stats.vercel.app/api?username=d351d3r&show_icons=true&theme=radical&hide_border=true" />
+<table>
+    <tr>
+        <td valign="top">
+            <img alt="d351d3r's Github Stats" src="https://github-readme-stats.vercel.app/api?username=d351d3r&show_icons=true&hide_border=false&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+        </td>
+        <td valign="top">
+            <a href="https://git.io/streak-stats"><img alt="Github Streak" src="http://github-readme-streak-stats.herokuapp.com?user=d351d3r&theme=gotham" /></a>
+        </td>
+    </tr>
+</table>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d351d3r)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-
+<p align="center">
+    <img alt="d351d3r's Github Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d351d3r&hide_border=false&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&langs_count=8&hide=html,css,makefile,tex" />
+</p>
+       
 [telegram]: https://t.me/d351d3r/ 
-[website]: https://desidesoft.dev/
+ [website]: https://desidesoft.dev/
 [linkedin]: https://www.linkedin.com/in/anatolii-cherednichenko/ 
  
  
