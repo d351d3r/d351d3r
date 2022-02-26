@@ -1,4 +1,4 @@
-### Hello! I am Anatolii Cherednichenko, student from Russia, interested in various technologies in the field of software and machine learning.  👋
+### Hello! I am Anatolii Cherednichenko, student, interested in various technologies in the field of software and machine learning.  👋
        Also known as d351d3r
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=d351d3r&label=Views&color=blue&style=plastic" alt="d351d3r" /> </p>
